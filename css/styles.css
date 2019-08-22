@@ -3,7 +3,9 @@ h1 {
 }
 
 body {
-    /* background-image: url('') */
+    background-image: url('http://mummyfix.com/wp-content/uploads/2017/01/IMG_0968.jpg');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
     font-family: 'Livvic', sans-serif;
 }
 
