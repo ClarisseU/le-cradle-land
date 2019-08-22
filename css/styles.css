@@ -3,5 +3,11 @@ h1 {
 }
 
 body {
+    /* background-image: url('') */
     font-family: 'Livvic', sans-serif;
+}
+
+nav {
+    margin-left: 80%;
+    margin-top: 1%;
 }
