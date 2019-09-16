@@ -45,3 +45,10 @@ nav {
 #sec {
     margin-right: 6%;
 }
+
+#services {
+    padding: 15%;
+    border: 1px solid white;
+    background-color: rgb(3, 27, 3);
+    opacity: 0.6;
+}
