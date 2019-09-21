@@ -60,3 +60,29 @@ nav {
 #sec2 {
     padding: 13%;
 }
+
+#gallery1 {
+    padding-bottom: 7%;
+}
+
+#gallery2 {
+    padding-bottom: 7%;
+}
+
+#img2 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 3%;
+}
+
+#img4 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 3%;
+}
+
+#img6 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 3%;
+}
